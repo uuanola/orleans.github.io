@@ -1,6 +1,5 @@
 site_name: My Docs
 theme:
     name: ivory
-nav:
-    - Home: index.md
+
 
