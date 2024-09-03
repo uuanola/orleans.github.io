@@ -1,6 +1,6 @@
 site_name: My Docs
 theme:
-    name: Dracula
+    name: ivory
 nav:
     - Home: index.md
 
